@@ -73,10 +73,9 @@ ul.news_new li{
   font-weight: bold;
 }
 /*MAP*/
-.tmap{
-  width: 800px;
-  height: 600px;
-  background: url('png/tudanuma_map.png');
+img.map{
+  width: auto;
+  height: auto;
 }
 /*MENU*/
 .submenu{
