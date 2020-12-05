@@ -72,3 +72,9 @@ ul.bmenu ul li a:hover{
 ul.news_new li{
   font-weight: bold;
 }
+/*MAP*/
+.tmap{
+  width: 80px;
+  height: 50px;
+  background: url('png/tudanuma_map.png');
+}
