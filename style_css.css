@@ -78,3 +78,8 @@ ul.news_new li{
   height: 600px;
   background: url('png/tudanuma_map.png');
 }
+/*MENU*/
+.submenu{
+  width: 130px;
+  height: 100%;
+}
