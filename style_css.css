@@ -68,3 +68,7 @@ ul.bmenu ul li a:hover{
 .topbody{
   margin-bottom: 100px;
 }
+/*NEWSのcss*/
+li.news_new{
+  font-weight: bold;
+}
