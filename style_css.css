@@ -74,8 +74,8 @@ ul.news_new li{
 }
 /*MAP*/
 img.map{
-  width: auto;
-  height: auto;
+  width: 380px;
+  height: 200px;
 }
 /*MENU*/
 .submenu{
