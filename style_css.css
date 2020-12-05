@@ -82,4 +82,5 @@ ul.news_new li{
 .submenu{
   width: 130px;
   height: 100%;
+  float: left;
 }
