@@ -8,6 +8,10 @@ h1{
   font-family: sans-serif;
   font-style: oblique;
   color: #f57c00;
+  background-image: url("png/oishii2_man.png");
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: 350px;
 }
 .menu{
   width: 100%;
@@ -73,7 +77,7 @@ ul.bmenu ul li a:hover{
   margin-bottom: 150px;
 }
 /*NEWSのcss*/
-ul.news_new li{
+ul.list{
   font-weight: bold;
 }
 .bottom{
