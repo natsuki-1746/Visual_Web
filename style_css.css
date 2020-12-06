@@ -8,13 +8,6 @@ h1{
   font-family: sans-serif;
   color: #f57c00;
 }
-h2.top{
-  background-image: url('pmg/IMG_7087.png');
-}
-img.top{
-  width: 300px;
-  height: 230px;
-}
 .menu{
   width: 100%;
   height: 50px;
@@ -67,6 +60,13 @@ ul.bmenu ul li a{
 ul.bmenu ul li a:hover{
   background-color: #fff3e0;
   color:　#870000;
+}
+.top{
+  width: 100%;
+  height: 500px;
+  background-image: url('png/IMG_7087.png');
+  background-size: 1000px;
+  background-repeat: no-repeat;
 }
 .topbody{
   margin-bottom: 100px;
