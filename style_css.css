@@ -8,9 +8,9 @@ h1{
   font-family: sans-serif;
   color: #f57c00;
 }
-h2.topbody{
-  width: 100px;
-  height: 70px;
+img.top{
+  width: 500px;
+  height: 400px;
 }
 .menu{
   width: 100%;
