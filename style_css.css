@@ -102,6 +102,9 @@ ul.news_new{
   margin-bottom: 20px;
 }
 /*MAP*/
+.tmap{
+  margin-left: 5px;
+}
 .mapimg{
   background-color: #ffffff;
   width: 680px;
