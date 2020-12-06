@@ -1,5 +1,7 @@
 body{
   background-color: #fffde7;
+  margin-left: auto;
+  margin-right: auto;
 }
 .space{
   margin-right: 40px;
@@ -99,9 +101,27 @@ ul.news_new{
   margin-bottom: 20px;
 }
 /*MAP*/
+.mapimg{
+  background-color: #ffffff;
+  width: 680px;
+  height: 100%;
+  padding: 15px;
+}
 img.map{
   width: 400px;
   height: 320px;
+}
+img.map2{
+  width: 250px;
+  height: 320px;
+}
+img.map3{
+  width: 330px;
+  height: 250px;
+  margin-right: 5px;
+}
+p.margin{
+  margin-bottom: 50px;
 }
 /*MENU*/
 .submenu{
