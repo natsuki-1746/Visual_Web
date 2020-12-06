@@ -74,6 +74,7 @@ ul.bmenu ul li a:hover{
   background-repeat: no-repeat;
 }
 .topbody{
+  background-image: url("png/lunch.png");
   margin-bottom: 150px;
 }
 .bottom{
@@ -85,6 +86,9 @@ ul.bmenu ul li a:hover{
   background-repeat: repeat-x;
 }
 /*NEWSのcss*/
+h4{
+  color: #c75b39;
+}
 .li{
   font-weight: bold;
 }
