@@ -105,21 +105,21 @@ ul.news_new{
 }
 .mapimg{
   background-color: #ffffff;
-  width: 680px;
+  width: 960px;
   height: 100%;
-  padding: 15px;
+  padding: 20px;
 }
 img.map{
-  width: 400px;
-  height: 320px;
+  width: 600px;
+  height: 450px;
 }
 img.map2{
-  width: 250px;
-  height: 320px;
+  width: 320px;
+  height: 460px;
 }
 img.map3{
-  width: 330px;
-  height: 250px;
+  width: 470px;
+  height: 370px;
   margin-right: 5px;
 }
 p.margin{
