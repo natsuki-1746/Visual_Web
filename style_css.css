@@ -17,12 +17,10 @@ h1{
 .menu{
   max-width: 100%;
   max-height: 100%;
-  z-index: 1;
 }
 .bmenu{
   max-width: 100%;
   max-height: 100%;
-  z-index: 20;
 }
 ul.bmenu{
   margin: 0px;
@@ -93,6 +91,12 @@ ul.bmenu ul li a:hover{
   background-image: url("png/star.png");
   background-repeat: repeat-x;
 }
+.a{
+  z-index: 1;
+}
+.b{
+  z-index: 2;
+}
 /*NEWSのcss*/
 h4{
   color: #c75b39;
@@ -137,8 +141,6 @@ p.margin{
   width: 155px;
   height: 100%;
   float: left;
-  z-index: 1;
-
 }
 /*cov*/
 .double{
