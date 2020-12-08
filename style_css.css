@@ -144,7 +144,8 @@ p.margin{
   float: left;
 }
 .contents{
-  max-width: 100%;
+  width: 830px;
+  text-align: left;
   float: right;
   margin-left: 10px;
 }
