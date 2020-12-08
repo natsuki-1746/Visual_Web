@@ -91,12 +91,6 @@ ul.bmenu ul li a:hover{
   background-image: url("png/star.png");
   background-repeat: repeat-x;
 }
-.a{
-  z-index: 1;
-}
-.b{
-  z-index: 2;
-}
 /*NEWSのcss*/
 h4{
   color: #c75b39;
