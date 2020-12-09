@@ -152,6 +152,9 @@ p.margin{
 a.contents{
   float: right;
 }
+.space2{
+  margin-right: 20px;
+}
 /*cov*/
 .double{
   border-bottom: double 5px #ffbb93;
