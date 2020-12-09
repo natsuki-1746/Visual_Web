@@ -155,6 +155,26 @@ a.contents{
 .space2{
   margin-right: 20px;
 }
+img.limg{
+  width: 400px;
+  height: 230px;
+  margin-top: 10px;
+  float: left;
+}
+img.limg2{
+  width: 400px;
+  height: 320px;
+  margin-top: 10px;
+  float: left;
+}
+a.contents{
+  margin-top: 20px;
+}
+.left{
+  width: 410px;
+  margin-top: 10px;
+  float: left;
+}
 /*cov*/
 .double{
   border-bottom: double 5px #ffbb93;
