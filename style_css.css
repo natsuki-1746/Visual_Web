@@ -149,6 +149,9 @@ p.margin{
   float: right;
   margin-left: 10px;
 }
+a.contents{
+  float: right;
+}
 /*cov*/
 .double{
   border-bottom: double 5px #ffbb93;
