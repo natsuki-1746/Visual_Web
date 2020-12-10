@@ -220,3 +220,7 @@ img.timg{
 p.bold{
   font-weight: bold;
 }
+/*inq*/
+.inqmargin{
+  margin: 50px 0 0 0;
+}
