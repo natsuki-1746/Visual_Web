@@ -209,3 +209,14 @@ img.cpng6{
 h3{
   margin-top: 70px;
 }
+/*time*/
+table td{
+  padding: 5px 10px;
+}
+img.timg{
+  max-width: 400px;
+  max-height: 320px;
+}
+p.bold{
+  font-weight: bold;
+}
